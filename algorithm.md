@@ -24,7 +24,7 @@ Algorithm:
    3. Append the profit to the row
 
 Purpose: Write the new table onto an output file  
-Name:   
+Name: write_to_file  
 Parameters:   
 Return:   
 Algorithm:
