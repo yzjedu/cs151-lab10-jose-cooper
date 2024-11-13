@@ -18,8 +18,10 @@ Parameters:
 Return:   
 Algorithm:
 1. For row in table:
-   1. Calculate the profit with the budget, domestic gross, and worldwide gross
-   2. Append the profit to the row
+   1. If an element is a number
+      1. Convert the element to an integer
+   2. Calculate the profit with the budget, domestic gross, and worldwide gross
+   3. Append the profit to the row
 
 Purpose: Write the new table onto an output file  
 Name:   
@@ -27,10 +29,7 @@ Parameters:
 Return:   
 Algorithm:
 1. Open a file for writing
-2. Add a comma to separate each element
-3. Convert each row to a string
-4. Write each row onto the file
-5. Close the file
+2. 
 
 Purpose: Run the program  
 Name: main
