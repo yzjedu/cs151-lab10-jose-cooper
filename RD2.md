@@ -1,11 +1,10 @@
-ENCRYPTED:
-# Fstzsqhwcb Rcqiasbh
+# Reflection Document
 
-* Rfwjs Tizz Boas  : Qccdsf Bonof
-* Dofhbsf Tizz Boas: Xcgs Qoffwzzc
-* Ghirsbh WR: 001930106
+* Drive Full Name  : Cooper Nazar
+* Partner Full Name: Jose Carrillo
+* Student ID: 001930106
 
-Ks ksfs asobh hc obozmns roho cb acjwsg, hvswf pirushg, obr hvswf dfctwhg. Gcas ysm qcbqsdhg ksfs twzsg, tibqhwcbg, obr 
-hopzsg. W pszwsjs W zsofbsr kvoh W kog asobh hc tcf hvwg zop. W vor gcas rwttwqizhm tcqigwbu cb hvs oggwubasbh ris hc 
-vojwbu aobm chvsf oggwubasbhg hc kcffm opcih hvwg kssy, pih W pszwsjs wh kcfysr cih kszz sbciuv. Kcfywbu kwhv Xcgs kog 
-uccr psqoigs vs aors ob sttcfh hc yssd wb qcbhoqh kwhv as rifwbu hvs rifohwcb ct hvs oggwubasbh.
+We were meant to analyze data on movies, their budgets, and their profits. Some key concepts were files, functions, and 
+tables. I believe I learned what I was meant to for this lab. I had some difficulty focusing on the assignment due to 
+having many other assignments to worry about this week, but I believe it worked out well enough. Working with Jose was 
+good because he made an effort to keep in contact with me during the duration of the assignment.
